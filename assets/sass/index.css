@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #fefefe;
+  font-family: Graphik, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #101010;
+  -webkit-font-smoothing: antialiased;
+}
+
+#home-page .background-img {
+  background: url(../images/Nainoa-background-img.jpg);
+}
+/*# sourceMappingURL=index.css.map */

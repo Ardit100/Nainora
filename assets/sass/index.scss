@@ -1,0 +1,11 @@
+@import "variables";
+@import "mixins";
+
+body {
+  @include body;
+}
+#home-page {
+  .background-img {
+    background: url(../images/Nainoa-background-img.jpg);
+  }
+}
